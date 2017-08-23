@@ -1,10 +1,10 @@
 var objMain = {
     Notifications : { 
     // "key" : "value"
-        //"Please checkout our new radio app" : '<a href="https://play.google.com/store/apps/details?id=com.liteindia.TamilRadio">Tamil Internet Radio</a>',
+        //"Know Tamilnadu Land Details!" : '<a href="https://play.google.com/store/apps/details?id=com.vkkarthiapp.patta">Patta Chitta</a>',
         "Issue with few consumer numbers" : "One of the TNEB/Tangedco server is not working as expected,hence we could not reterive information for few consumer numbers.This will be resolved once it is fixed by TNEB department."
     },
-    CustomHtml : 'Music lovers! Checkout our new <a href="market://details?id=com.liteindia.TamilRadio"><b>Tamil Internet Radio</b></a> Application! ',
+    CustomHtml : 'Know Tamilnadu Land Detail ! Checkout our new <a href="market://details?id=com.vkkarthiapp.patta"><b>Patta Chitta</b></a> Application! ',
     Root : 'http://tneb.tnebnet.org/newlt/menu3.html',
     Captcha : 'http://tneb.tnebnet.org/newlt/captcha_code_file.php',
     Data : 'http://tneb.tnebnet.org/newlt/menu3.html',
@@ -16,9 +16,9 @@ var objMain = {
     NewAccountInvalidKeywords : ['Invalid Input'],
     NoConnectivityKeywords : ['No Connectivity'],
     FormKeywords : ['Choose Region','Service Number','Captcha'],
-    PlayStoreLink : 'http://play.google.com/store/apps/details?id=com.bas.TNLiteNew',
-    TwitterLink   : 'https://twitter.com/tnlite',
-    MarketLink : 'market://details?id=com.bas.TNLiteNew',
+    PlayStoreLink : 'http://play.google.com/store/apps/details?id=com.jo.TNEB',
+    TwitterLink   : 'https://twitter.com/vkkarthiappS',
+    MarketLink : 'market://details?id=com.jo.TNEB',
     Regions : [
         { id:1,name : "01-Chennai-North"},
         { id:2,name : "02-Villupuram" },
